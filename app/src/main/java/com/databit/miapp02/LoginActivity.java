@@ -21,6 +21,7 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+
         txtnombre= (EditText) findViewById(R.id.idNombre);
         btncontinuar=(Button)  findViewById(R.id.idContinuar);
         btnsalir=(Button)  findViewById((R.id.idSalir));

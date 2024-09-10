@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">MiApp02</string>
     <string name="app_titulo">App Edad Perros</string>
-    <string name="app_pregunta">¡Hola, indicame tu edad!</string>
+    <string name="app_pregunta">¡Hola, como estas, indicame tu edad!</string>
     <string name="app_calcular">Calcular</string>
+    <string name="app_calcular1">Calcular uno</string>
 </resources>
