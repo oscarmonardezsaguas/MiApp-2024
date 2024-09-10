@@ -30,6 +30,13 @@
             android:text="Continuar" />
 
         <Button
+            android:id="@+id/idContinuar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:text="Registrar" />
+
+        <Button
             android:id="@+id/idSalir"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
